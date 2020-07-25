@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvinau0427&repo=SmartController&theme=tokyonight" />
 </a>
 
-## Find me around the web :globe_with_meridians::student:
+## Find me around the web :globe_with_meridians:
 - :man_technologist: Graduated recently from The Open University of Hong Kong
 - :computer: Bachelor of Computing with Honours in Internet Technology
 - :briefcase: Keep updates profile on [LinkedIn](https://www.linkedin.com/in/alvinau0427/)
