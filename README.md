@@ -20,6 +20,7 @@
 ## Find me around the web :globe_with_meridians:
 - :man_technologist: Graduated recently from The Open University of Hong Kong
 - :computer: Bachelor of Computing with Honours in Internet Technology
+- :mag_right: Know more about me on [Portfolio](https://alvinau0427.github.io/) or [Blog](https://alvinau0427-blog.netlify.app/)
 - :briefcase: Keep updates profile on [LinkedIn](https://www.linkedin.com/in/alvinau0427/)
 - :email: Reach me by email to alvinau0427@outlook.com
 - :speech_balloon: Ask me about anything in [here](https://github.com/alvinau0427/alvinau0427/issues)
