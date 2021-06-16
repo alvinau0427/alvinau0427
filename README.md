@@ -1,14 +1,29 @@
-## Hello, I am Alvin :wave: 
+## Hello, I am Alvin :wave:
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=alvinau0427&hide_border=false&theme=dark" width="48%"  align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=alvinau0427&show_icons=true&hide_border=false&theme=great-gatsby" width="48%">
 
-<a href="https://github.com/alvinau0427">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvinau0427&show_icons=true&hide_border=true&line_height=27" />
-</a>
-
-<a href="https://github.com/alvinau0427">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinau0427&hide_border=true" />
-</a>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) which developed by anuraghazra*
+<p align="center">
+  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=source&language=java">
+    <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=C21325" alt="Java logo" title="Java" height="25" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=source&language=javascript">
+    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=source&language=html">
+    <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=source&language=html">
+    <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=source&language=php">
+  <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=764ABC" alt="PHP logo" title="PHP" height="25" />
+  </a>
+  &nbsp;
+</p>
 
 ## Find me around the web :globe_with_meridians:
 - :mortar_board: Graduated recently from The Open University of Hong Kong
