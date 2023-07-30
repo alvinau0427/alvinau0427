@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/alvinau0427?tab=repositories&q=&type=source&language=java">
-    <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=C21325" alt="Java logo" title="Java" height="25" />
+    <img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=C21325" alt="Java logo" title="Java" height="25" />
   </a>
   &nbsp;
   <a href="https://github.com/alvinau0427?tab=repositories&q=&type=source&language=javascript">
@@ -26,7 +26,7 @@
 </p>
 
 ## Find me around the web :globe_with_meridians:
-- :mortar_board: Graduated recently from The Open University of Hong Kong
+- :mortar_board: Graduated from The Open University of Hong Kong
 - :computer: Bachelor of Computing with Honours in Internet Technology
 - :mag_right: Know more about me on [Portfolio](https://alvinau0427.github.io/) or [Blog](https://alvinau0427-blog.netlify.app/)
 - :briefcase: Keep updates profile on [LinkedIn](https://www.linkedin.com/in/alvinau0427/)
