@@ -1,6 +1,11 @@
-## Hello, I am Alvin :wave:
+## Hello, I am Alvin Au :wave:
+<!--
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alvinau0427&hide_border=true&theme=dark" width="48%"  align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=alvinau0427&show_icons=true&hide_border=true&theme=dark&title_color=FFA500&&icon_color=FFA500&text_color=FFFFFF" width="48%">
+-->
+<p align="center">
+  <img width="65%" height="auto" src="img_github_banner_alvinau0427.png">
+</p>
 
 <p align="center">
   <a href="https://github.com/alvinau0427?tab=repositories&q=&type=source&language=java">
