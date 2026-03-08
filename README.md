@@ -1,4 +1,4 @@
-## Hello, I am Alvin Au :wave:
+## Hi! I'm Alvin Au
 <!--
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alvinau0427&hide_border=true&theme=dark" width="48%"  align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=alvinau0427&show_icons=true&hide_border=true&theme=dark&title_color=FFA500&&icon_color=FFA500&text_color=FFFFFF" width="48%">
@@ -20,8 +20,8 @@
   &nbsp;
 </p>
 
-## Find me around the web :globe_with_meridians:
-- :mag_right: Know more about me on [Portfolio](https://alvinau0427.github.io/) or [Blog](https://alvinau0427-blog.netlify.app/)
+## Find me around the web
+- :mag_right: Know more about me on [Portfolio](https://alvinau.dev/) or [Blog](https://blog.alvinau.dev/)
 - :briefcase: Keep updates profile on [LinkedIn](https://www.linkedin.com/in/alvinau0427/)
 - :email: Reach me by email to alvinau0427@outlook.com
 - :speech_balloon: Ask me about anything in [here](https://github.com/alvinau0427/alvinau0427/issues)
