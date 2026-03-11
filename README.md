@@ -3,13 +3,20 @@
   <img width="65%" height="auto" src="img_github_banner_alvinau0427.png">
 </p>
 <p align="center">
-  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=&language=java&sort="><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=FFFFFF" alt="Java" title="Java" /></a> &nbsp;
-  <a href=""><img src="https://img.shields.io/badge/Node-6DA55F?logo=node.js&logoColor=FFFFFF" alt="Node" title="Node" /></a> &nbsp;
-  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=FFFFFF" alt="HTML" title="HTML" /></a> &nbsp;
-  <a href=""><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=FFFFFF" alt="CSS" title="CSS" /></a> &nbsp;
-  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/Javacript-F9AB00?logo=javascript&logoColor=FFFFFF" alt="JavaScript" title="JavaScript" /></a> &nbsp;
-  <a href=""><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF" alt="TypeScript" title="Typescript" /></a> &nbsp;
-  <a href=""><img src="https://img.shields.io/badge/React-%230070D1.svg?logo=react&logoColor=FFFFFF" alt="React" title="React" /></a> &nbsp;
+  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=&language=java&sort="><img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=%23ED8B00" /></a>
+  &nbsp;
+  <a href=""><img src="https://img.shields.io/badge/Node-282C34?logo=node.js&logoColor=6DA55F" /></a>
+  &nbsp;
+  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=%23E34F26" /></a>
+  &nbsp;
+  <a href=""><img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=%237F52FF" /></a>
+  &nbsp;
+  <a href="https://github.com/alvinau0427?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" /></a>
+  &nbsp;
+  <a href=""><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" /></a>
+  &nbsp;
+  <a href=""><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=%2361DAFB" /></a>
+  &nbsp;
 </p>
 
 ## Find me around the web
