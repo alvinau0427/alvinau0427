@@ -1,6 +1,6 @@
 ## Hi! I'm Alvin Au
 <p align="center">
-  <img width="65%" height="auto" src="img_github_banner_alvinau0427.png">
+  <a href="#!"><img width="65%" height="auto" src="img_github_banner_alvinau0427.png"></a>
 </p>
 <p align="center">
   <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a>
