@@ -18,11 +18,10 @@
   <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="ReactJS" width="25" height="25" /></a>
   &nbsp;
   <a href="#!"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vue.svg" alt="VueJS" width="25" height="25" /></a>
-  &nbsp;
 </p>
 
 ## Find me around the web
-- :mag_right: Know more about me on [Portfolio](https://alvinau.dev/) or [Blog](https://blog.alvinau.dev/)
-- :briefcase: Keep updates profile on [LinkedIn](https://www.linkedin.com/in/alvinau0427/)
-- :email: Reach me by email to alvinau0427@outlook.com
-- :speech_balloon: Ask me about anything in [here](https://github.com/alvinau0427/alvinau0427/issues)
+➥ Know more about me on [Portfolio](https://alvinau.dev/) or [Blog](https://blog.alvinau.dev/) <br/>
+➥ Keep updates profile on [LinkedIn](https://www.linkedin.com/in/alvinau0427/) <br/>
+➥ Reach me by email to alvinau0427@outlook.com <br/>
+➥ Ask me about anything in [here](https://github.com/alvinau0427/alvinau0427/issues)
